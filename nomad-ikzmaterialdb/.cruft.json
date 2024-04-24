@@ -1,0 +1,23 @@
+{
+  "template": "https://github.com/blueraft/cookiecutter-nomad-plugin",
+  "commit": "791bfb75ce49c8112a3d0f25525710dde33b50c7",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Wolfram Miller",
+      "email": "wolfram.miller@ikz-berlin.de",
+      "github_username": "WolframMiller",
+      "plugin_name": "ikzmaterialdb",
+      "module_name": "ikzmaterialdb",
+      "short_description": "Nomad example template",
+      "version": "0.1.0",
+      "license": "MIT",
+      "variant": "schema",
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/blueraft/cookiecutter-nomad-plugin"
+    }
+  },
+  "directory": null
+}
