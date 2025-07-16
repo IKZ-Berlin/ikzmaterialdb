@@ -1,6 +1,6 @@
-# Welcome to the `nomad-ikzmaterialdb` documentation
+# Welcome to the `ikzmaterialdb` documentation
 
-Nomad example template
+NOMAD plugin for storing fundamental material properties
 
 ## Introduction
 
